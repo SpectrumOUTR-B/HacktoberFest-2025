@@ -28,19 +28,19 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1| | <ul><li>[ ] Merged</li></ul> |
-|2| | <ul><li>[ ] Merged</li></ul> |
-|3| | <ul><li>[ ] Merged</li></ul> |
-|4| | <ul><li>[ ] Merged</li></ul> |
+|1|Smart Irrigation System using Soil Moisture Sensor & IoT | <ul><li>[ ] Merged</li></ul> |
+|2|Home Automation with ESP32 & Voice Control | <ul><li>[ ] Merged</li></ul> |
+|3|Health Monitoring System (Temperature, Heart Rate on IoT Dashboard) | <ul><li>[ ] Merged</li></ul> |
+|4|Energy Meter Monitoring using STM32/Arduino | <ul><li>[ ] Merged</li></ul> |
 
 ## [PYTHON DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/tree/main/projects_advanced/PYTHON_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1| | <ul><li>[ ] Merged</li></ul> |
-|2| | <ul><li>[ ] Merged</li></ul> |
-|3| | <ul><li>[ ] Merged</li></ul> |
-|4| | <ul><li>[ ] Merged</li></ul> |
+|1|Face Recognition Attendance System | <ul><li>[ ] Merged</li></ul> |
+|2|Weather Forecast App using OpenWeather API | <ul><li>[ ] Merged</li></ul> |
+|3|Personal Expense Tracker with Data Visualization | <ul><li>[ ] Merged</li></ul> |
+|4|Web Scraper + Dashboard for Trending GitHub Repos | <ul><li>[ ] Merged</li></ul> |
 
 ## [WEB DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/tree/main/projects_advanced/WEB_DEVELOPMENT)
 
