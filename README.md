@@ -42,6 +42,7 @@ HacktoberFest-2023/                          # Root Folder or Directory
 │   ├── APPLICATION_DEVELOPMENT/
 │   ├── UI_UX/
 │   ├── WEB_DEVELOPMENT/
+│   ├── HARDWARE/
 │   ├── PROJECT_DOMAIN.md                    # Project Ideas Related to Each Domain
 │   └── README.md                            # Instructions about contributing to current folder
 ├── projects_intermediate/                    # Intermediate and Beginner Level Projects (Domains are Listed)
@@ -49,6 +50,7 @@ HacktoberFest-2023/                          # Root Folder or Directory
 │   ├── APP_DEVELOPMENT/
 │   ├── UI_UX/
 │   ├── WEB_DEVELOPMENT/
+│   ├── HARDWARE/
 │   ├── PROJECT_DOMAIN.md                    # Project Ideas Related to Each Domain
 │   └── README.md                            # Instructions about contributing to current folder 
 ├── .gitignore
