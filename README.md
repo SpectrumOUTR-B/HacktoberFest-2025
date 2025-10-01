@@ -1,12 +1,13 @@
 # Spectober Fest
 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub forks](https://img.shields.io/github/forks/SpectrumOUTR-B/HacktoberFest---2025?style=social)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/SpectrumOUTR-B/HacktoberFest---2025?style=social)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/SpectrumOUTR-B/HacktoberFest---2025.svg)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/SpectrumOUTR-B/HacktoberFest---2025.svg)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/pulls)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/SpectrumOUTR-B/HacktoberFest---2025.svg)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub Contributors](https://img.shields.io/github/contributors/SpectrumOUTR-B/HacktoberFest---2025.svg)](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/Spectober_Fest.svg)](https://gitHub.com/Naereen/Spectrum-CETB/Spectober_Fest/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/Spectober_Fest.svg)](https://GitHub.com/Spectrum-CETB/Spectober_Fest/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Introduction to Hacktoberfest 2025🚀
