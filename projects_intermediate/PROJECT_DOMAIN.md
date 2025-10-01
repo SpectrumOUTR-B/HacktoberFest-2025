@@ -27,10 +27,10 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|| <ul><li>[ ] Merged</li></ul> |
-|2|| <ul><li>[ ] Merged</li></ul> |
-|3|| <ul><li>[ ] Merged</li></ul> |
-|4|| <ul><li>[ ] Merged</li></ul> |
+|1|Smart Street Lighting System| <ul><li>[ ] Merged</li></ul> |
+|2|Digital Thermostat with Relay Control| <ul><li>[ ] Merged</li></ul> |
+|3|Electronic Voting Machine (EVM) Prototype| <ul><li>[ ] Merged</li></ul> |
+|4|Smart Parking System| <ul><li>[ ] Merged</li></ul> |
 
 
 
