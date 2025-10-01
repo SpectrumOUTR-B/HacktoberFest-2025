@@ -1,0 +1,1 @@
+This repository contains JAVA solutions and code contributions as part of Hacktoberfest 2025. Our goal is to provide optimized, well-documented code for various algorithms, data structures, or problem-solving challenges. Contributions to this repository are highly encouraged as part of Hacktoberfest.
