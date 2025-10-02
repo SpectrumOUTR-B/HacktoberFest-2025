@@ -12,7 +12,7 @@
 
 # Introduction to Hacktoberfest 2025🚀
 
-<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
+<img width="2400" alt="Email Banners-Dark" src="https://github.com/user-attachments/assets/ea36a7fd-61f0-4e45-abff-fae7de9d830b">
 
 ## Welcome to Hacktoberfest 2025!🎉
 Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
@@ -68,7 +68,7 @@ HacktoberFest-2023/                          # Root Folder or Directory
 *  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2025 t-shirt.
 *  More rules can be viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
-### **_To know how to contribute_, [click here](https://github.com/SpectrumOUTR-B/HacktoberFest---2025/blob/main/CONTRIBUTION.md).**
+### **_To know how to contribute_, [click here](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/CONTRIBUTION.md).**
 
 **Please don't forget to star⭐ this repository. This will encourage us to bring more such events for you❤️. Also do share your contributing experience by tagging us in your social handles, we will be happy🙂 to know about it from you.**
 
