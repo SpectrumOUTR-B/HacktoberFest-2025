@@ -5,7 +5,7 @@ Follow the steps below to contribute to this repository:
 ---
 
 ## 1. Fork the Repository  
-- Create a fork of the main repo [Official Repo](https://github.com/Spectrum-CETB/Spectober_Fest).
+- Create a fork of the main repo [Official Repo](https://github.com/SpectrumOUTR-B/HacktoberFest-2025).
 
 ![Fork Repo](https://github.com/user-attachments/assets/24758dd0-ee94-4c39-b6aa-6f8cbda20a71)
 
@@ -56,8 +56,10 @@ git push origin <Own branch>
 
 - Compare the changes and put on the pull request as shown below.
 
-![screenshot-github com-2022 09 29-16_51_44](https://user-images.githubusercontent.com/74270500/193019915-88f2c87c-787f-45f0-829e-7fef7a309c18.png)
+![Create request](https://github.com/user-attachments/assets/6bc5744d-0957-4298-a3dc-08156a9ac7f6)
+![create req](https://github.com/user-attachments/assets/d2196529-e6ae-41d4-a504-e29287c02e99)
 
-![screenshot-github com-2022 09 29-16_52_44](https://user-images.githubusercontent.com/74270500/193020030-02556334-8d52-4787-941c-b0995d67915d.png)
+
+![commit](https://github.com/user-attachments/assets/588abebd-0a3b-4fdf-b21c-eff92ac3cc1f)
 
 
