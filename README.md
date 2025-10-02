@@ -68,7 +68,7 @@ HacktoberFest-2023/                          # Root Folder or Directory
 *  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2025 t-shirt.
 *  More rules can be viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
-### **_To know how to contribute_, [click here](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/CONTRIBUTION.md).**
+### **_To know how to contribute_, [click here](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/CONTRIBUTE.md).**
 
 **Please don't forget to star⭐ this repository. This will encourage us to bring more such events for you❤️. Also do share your contributing experience by tagging us in your social handles, we will be happy🙂 to know about it from you.**
 
