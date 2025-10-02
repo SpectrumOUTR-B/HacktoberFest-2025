@@ -1,19 +1,19 @@
 
 # Intermediate Projects🚀
 
-<a href="https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Intermediate-blue.svg"/></a>
+<a href="https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate"><img src="https://img.shields.io/badge/Projects%20-intermediate-blue.svg"/></a>
 
-As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/SpectrumOUTR-B/HacktoberFest-2025tree/main/coding_freshmen) folder. This folder is for **intermediate level projects**. If you want to work on advanced level projects then navigate to [projects_Advanced](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced) folder.
+As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/edit/main/projects_intermediate) folder. This folder is for **intermediate level projects**. If you want to work on advanced level projects then navigate to [projects_Advanced](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_advanced) folder.
 
 ### **This folder consist of folders of different domains related to software and hardware. You can find different domains in the list given below.**
 
 | SL No.| Domains | Languages( can be used ) | Abbreviation |
 | :---------------: | :---------------: | :---------------: | :---------------: |
-| 1 | [AI & ML](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate/AI_ML) | `Python` | AM |
-| 2 | [APP DEVELOPMENT](https://github.com/SSpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate/APP_DEVELOPMENT) | `Kotlin`, `React-Native(javascript)`, `Flutter(dart)`, `Java` | AD |
-| 3 | [HARDWARE DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate/HARDWARE_DEVELOPMENT) | `C`, `C++`, `Java` | HD |
-| 4 | [PYTHON DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate/`PYTHON`_DEVELOPMENT) | `Python` | PD |
-| 5 | [WEB DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_Intermediate/WEB_DEVELOPEMENT) | `HTML`, `CSS`, `Javascript`, `Any Javascript Framework or library`, `Java`, `Go`, `Ruby`, `Solidity`, `Rust` | WD |
+| 1 | [AI & ML](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate/AI_ML) | `Python` | AM |
+| 2 | [APP DEVELOPMENT](https://github.com/SSpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate/APP_DEVELOPMENT) | `Kotlin`, `React-Native(javascript)`, `Flutter(dart)`, `Java` | AD |
+| 3 | [HARDWARE DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate/HARDWARE_DEVELOPMENT) | `C`, `C++`, `Java` | HD |
+| 4 | [PYTHON DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate/`PYTHON`_DEVELOPMENT) | `Python` | PD |
+| 5 | [WEB DEVELOPMENT](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/tree/main/projects_intermediate/WEB_DEVELOPEMENT) | `HTML`, `CSS`, `Javascript`, `Any Javascript Framework or library`, `Java`, `Go`, `Ruby`, `Solidity`, `Rust` | WD |
 
 ## Rules and Regulations📃
 
@@ -60,7 +60,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    ```
 
-### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/projects_Intermediate/Project_Domain.md).**
+### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/projects_intermediate/PROJECT_DOMAIN.md).**
 
 **Please go through the [README.md](https://github.com/SpectrumOUTR-B/HacktoberFest-2025/blob/main/README.md) and [CONTRIBUTION.md](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md) before starting to contribute.**
 
